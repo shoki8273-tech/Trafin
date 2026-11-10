@@ -1,0 +1,296 @@
+1|Aset|Assets
+2|Liabilitas|Liabilities
+3|Ekuitas|Equity
+4|Pendapatan|Revenue
+5|Beban|Expenses
+6|Kas|Cash
+7|Bank BCA|Bank BCA
+8|Piutang Usaha|Accounts Receivable
+9|Persediaan|Inventory
+10|Peralatan (neto)|Equipment (net)
+11|Utang Usaha|Accounts Payable
+12|Utang Bank|Bank Loans
+13|Modal Saham|Share Capital
+14|Laba Ditahan|Retained Earnings
+15|Penjualan|Sales
+16|Pendapatan Lain|Other Income
+17|Harga Pokok Penjualan|Cost of Goods Sold
+18|Beban Gaji|Salary Expense
+19|Beban Sewa|Rent Expense
+20|Beban Listrik & Air|Utilities Expense
+21|Beban Lain-lain|Other Expenses
+22|Ringkasan|Summary
+23|Jurnal|Journal
+24|Akun|Accounts
+25|Laporan|Reports
+26|Home|Home
+27|Riwayat|History
+28|Target|Goals
+29|Pribadi|Personal
+30|Perusahaan|Business
+31|Mode perusahaan|Business mode
+32|Mode pribadi|Personal mode
+33|Anggaran|Budget
+34|Hutang|Debts
+35|Rekening|Accounts & wallets
+36|Kalender|Calendar
+37|Pengaturan|Settings
+38|Jurnal baru|New journal entry
+39|Catat transaksi|Add transaction
+40|Simpan|Save
+41|Makanan|Food
+42|Transport|Transport
+43|Tagihan|Bills
+44|Belanja|Shopping
+45|Hiburan|Entertainment
+46|Gaji|Salary
+47|Sampingan|Side income
+48|Hadiah|Gifts
+49|Lainnya|Other
+50|Isi nominal lebih dari 0|Enter an amount greater than 0
+51|Pilih kategori|Choose a category
+52|Pengeluaran|Expense
+53|Pemasukan|Income
+54|Nominal|Amount
+55|Kategori|Category
+56|Tanggal: {d}|Date: {d}
+57|Catatan (opsional)|Note (optional)
+58|Isi nama target|Enter a goal name
+59|Target tabungan baru|New savings goal
+60|Nama target|Goal name
+61|Nominal target|Target amount
+62|Tenggat (opsional, mis. Des 2026)|Deadline (optional, e.g. Dec 2026)
+63|Setor ke {name}|Deposit to {name}
+64|Nominal setoran|Deposit amount
+65|Pilih akun debit dan kredit|Choose a debit and a credit account
+66|Akun debit dan kredit harus berbeda|Debit and credit accounts must be different
+67|Transaksi|Transaction
+68|Keterangan|Description
+69|Akun debit|Debit account
+70|Akun kredit|Credit account
+71|Halo!|Hello!
+72|Halo, {n}|Hello, {n}
+73|Saldo bersih|Net balance
+74|Bulan ini|This month
+75|{pct}% pemasukan bulan ini sudah terpakai|{pct}% of this month's income has been spent
+76|Target tabungan|Savings goals
+77|Belum ada target tabungan|No savings goals yet
+78|Transaksi terakhir|Recent transactions
+79|Semua|All
+80|Geser ke kiri untuk menghapus satu transaksi|Swipe left to delete a transaction
+81|"{label}" dihapus|"{label}" deleted
+82|Urungkan|Undo
+83|Belum ada transaksi|No transactions yet
+84|Tekan tombol + untuk menambah transaksi pertama|Tap + to add your first transaction
+85|Tanpa tenggat|No deadline
+86|Tenggat {d}|Due {d}
+87|{a} dari {b}|{a} of {b}
+88|Setor|Deposit
+89|Target baru|New goal
+90|Tekan Target baru untuk membuat target|Tap New goal to create one
+91|Geser ke kiri untuk menghapus target yang batal|Swipe left to delete a cancelled goal
+92|Laporan bulanan|Monthly report
+93|Total pemasukan|Total income
+94|Total pengeluaran|Total expenses
+95|Semua pemasukan|All income
+96|Semua pengeluaran|All expenses
+97|Belum ada data bulan ini|No data this month
+98|Catat transaksi dengan tombol + atau pilih bulan lain|Add a transaction with + or pick another month
+99|Ungu|Purple
+100|Biru|Blue
+101|Hijau|Green
+102|Pink|Pink
+103|Oranye|Orange
+104|Pengaturan dasar|Basic settings
+105|Bahasa|Language
+106|Mata uang|Currency
+107|simbol di depan|symbol before
+108|simbol di belakang|symbol after
+109|Tanggal|Date
+110|Format {f} • periode mulai tanggal {d}|Format {f} • period starts on day {d}
+111|Keamanan|Security
+112|Kunci PIN nonaktif|PIN lock off
+113|Kunci PIN aktif|PIN lock on
+114|Tampilan|Appearance
+115|Mode tema|Theme mode
+116|Terang|Light
+117|Gelap|Dark
+118|Sistem|System
+119|Warna tema|Theme color
+120|Profil|Profile
+121|Nama kamu|Your name
+122|Nama perusahaan|Company name
+123|Beranda|Home screen
+124|Indikator pengeluaran|Spending indicator
+125|Tampilkan persen pemasukan bulan ini yang sudah terpakai|Show the percentage of this month's income already spent
+126|Tentang|About
+127|Versi 1.0.0|Version 1.0.0
+128|Tunai|Cash
+129|Bank|Bank
+130|E-wallet|E-wallet
+131|Total semua rekening|Total of all accounts
+132|Daftar rekening|Account list
+133|Rekening baru|New account
+134|Belum ada rekening|No accounts yet
+135|Tekan Rekening baru untuk menambah|Tap New account to add one
+136|Geser ke kiri untuk menghapus rekening|Swipe left to delete an account
+137|Isi nama rekening|Enter an account name
+138|Nama rekening sudah ada|That account name already exists
+139|Nama rekening|Account name
+140|Jenis|Type
+141|Saldo awal (opsional)|Opening balance (optional)
+142|Terpakai {v}|Spent {v}
+143|Batas {v}|Limit {v}
+144|Sisa {v}|Left {v}
+145|Melebihi {v}|Over by {v}
+146|Anggaran bulanan|Monthly budget
+147|Anggaran baru|New budget
+148|Belum ada anggaran|No budgets yet
+149|Atur batas pengeluaran per kategori|Set spending limits per category
+150|Geser ke kiri untuk menghapus anggaran|Swipe left to delete a budget
+151|Anggaran kategori ini sudah ada|A budget for this category already exists
+152|Isi batas lebih dari 0|Enter a limit greater than 0
+153|Batas per periode|Limit per period
+154|Lunas|Paid
+155|Tanpa jatuh tempo|No due date
+156|Jatuh tempo {d}|Due {d}
+157|Batal lunas|Mark unpaid
+158|Tandai lunas|Mark paid
+159|Saya berutang|I owe
+160|Piutang saya|Owed to me
+161|Total yang harus kamu bayar|Total you need to pay
+162|Total yang harus dibayar ke kamu|Total owed to you
+163|Daftar|List
+164|Catat baru|Add new
+165|Belum ada catatan|No records yet
+166|Tekan Catat baru untuk menambah|Tap Add new to add one
+167|Geser ke kiri untuk menghapus catatan|Swipe left to delete a record
+168|Isi nama|Enter a name
+169|Catat hutang|Record debt
+170|Berutang kepada|Owed to
+171|Yang berutang|Owed by
+172|Jatuh tempo (opsional)|Due date (optional)
+173|Jatuh tempo: {d}|Due: {d}
+174|Masuk {a} • Keluar {b}|In {a} • Out {b}
+175|Tidak ada transaksi|No transactions
+176|Pilih tanggal lain atau catat dengan tombol +|Pick another date or add one with +
+177|Contoh: {v}|Example: {v}
+178|Posisi simbol|Symbol position
+179|Di depan|Before
+180|Di belakang|After
+181|Pemisah ribuan|Thousands separator
+182|Titik|Dot
+183|Koma|Comma
+184|Spasi|Space
+185|Format tanggal|Date format
+186|Awal periode bulanan|Monthly period start
+187|Periode mulai tanggal|Period starts on day
+188|Tanggal {d}|Day {d}
+189|Periode sekarang: {p}|Current period: {p}
+190|Kunci aplikasi dengan PIN|Lock app with PIN
+191|Aplikasi meminta PIN saat dibuka kembali dari latar belakang|The app asks for the PIN when reopened from the background
+192|Ubah PIN|Change PIN
+193|PIN disimpan terenkripsi di perangkat. Jangan lupa PIN-mu: jika lupa, satu-satunya cara masuk lagi adalah memasang ulang aplikasi (data ikut terhapus).|The PIN is stored encrypted on this device. Don't forget it: if you do, the only way back in is to reinstall the app (your data will be erased).
+194|Atur PIN|Set PIN
+195|PIN 4 digit|4-digit PIN
+196|Batal|Cancel
+197|PIN harus 4 digit|PIN must be 4 digits
+198|Terlalu banyak percobaan. Coba lagi sebentar lagi.|Too many attempts. Try again shortly.
+199|PIN salah|Wrong PIN
+200|Money Buddy terkunci|Money Buddy is locked
+201|Masukkan PIN 4 digit|Enter your 4-digit PIN
+202|Populer|Popular
+203|Semua mata uang ({n})|All currencies ({n})
+204|Pilih mata uang|Choose currency
+205|Cari negara, mata uang, atau kode|Search country, currency or code
+206|Tidak ditemukan|Not found
+207|Coba kata kunci lain|Try another keyword
+208|Laba bersih (kumulatif)|Net profit (cumulative)
+209|Posisi keuangan|Financial position
+210|Persamaan akuntansi seimbang|Accounting equation is balanced
+211|Neraca tidak seimbang|Balance sheet is not balanced
+212|Aset = Liabilitas + Ekuitas|Assets = Liabilities + Equity
+213|Jurnal terbaru|Latest journal entries
+214|Debit|Debit
+215|Kredit|Credit
+216|Belum ada jurnal|No journal entries yet
+217|Tekan tombol + untuk mencatat jurnal pertama|Tap + to record your first journal entry
+218|Geser ke kiri untuk menghapus satu jurnal|Swipe left to delete a journal entry
+219|Neraca|Balance Sheet
+220|Posisi aset, liabilitas, dan ekuitas|Position of assets, liabilities and equity
+221|Laporan Laba Rugi / LO|Income Statement
+222|Pendapatan, beban, dan laba bersih|Revenue, expenses and net profit
+223|Laporan Arus Kas|Cash Flow Statement
+224|Kas masuk dan keluar: operasi, investasi, pendanaan|Cash in and out: operating, investing, financing
+225|Laporan Perubahan Ekuitas|Statement of Changes in Equity
+226|Pergerakan modal dan laba ditahan|Movement of capital and retained earnings
+227|Per {p}|As of {p}
+228|{n} • per {p}|{n} • as of {p}
+229|Bagikan PDF|Share PDF
+230|Gagal membuat PDF: {e}|Could not create PDF: {e}
+231|Total aset|Total assets
+232|Total liabilitas|Total liabilities
+233|Laba tahun berjalan|Current year profit
+234|Total ekuitas|Total equity
+235|Seimbang|Balanced
+236|Tidak seimbang|Not balanced
+237|Liabilitas + ekuitas|Liabilities + equity
+238|Liabilitas + ekuitas {v}|Liabilities + equity {v}
+239|Total pendapatan|Total revenue
+240|Total beban|Total expenses
+241|Laba bersih|Net profit
+242|Aktivitas operasi|Operating activities
+243|Kas masuk dari operasi|Cash received from operations
+244|Kas keluar untuk operasi|Cash paid for operations
+245|Kas bersih operasi|Net operating cash
+246|Aktivitas investasi|Investing activities
+247|Pembelian/penjualan aset tetap|Purchase/sale of fixed assets
+248|Kas bersih investasi|Net investing cash
+249|Aktivitas pendanaan|Financing activities
+250|Pinjaman, modal, dan dividen|Loans, capital and dividends
+251|Kas bersih pendanaan|Net financing cash
+252|Kenaikan kas|Increase in cash
+253|Kas awal periode|Cash at start of period
+254|Kenaikan kas bersih|Net increase in cash
+255|Kas akhir periode|Cash at end of period
+256|Saldo awal ekuitas|Opening equity
+257|Total saldo awal|Total opening balance
+258|Perubahan selama periode|Changes during the period
+259|Laba bersih periode berjalan|Net profit for the period
+260|Total perubahan|Total changes
+261|Saldo akhir ekuitas|Closing equity
+262|Ikuti bahasa sistem|Follow system language
+263|Nama mata uang dan negara di daftar mata uang masih memakai bahasa Indonesia.|Currency and country names in the currency list are still shown in Indonesian.
+264|Januari|January
+265|Februari|February
+266|Maret|March
+267|April|April
+268|Mei|May
+269|Juni|June
+270|Juli|July
+271|Agustus|August
+272|September|September
+273|Oktober|October
+274|November|November
+275|Desember|December
+276|Jan|Jan
+277|Feb|Feb
+278|Mar|Mar
+279|Apr|Apr
+280|Mei|May
+281|Jun|Jun
+282|Jul|Jul
+283|Agu|Aug
+284|Sep|Sep
+285|Okt|Oct
+286|Nov|Nov
+287|Des|Dec
+288|Sen|Mon
+289|Sel|Tue
+290|Rab|Wed
+291|Kam|Thu
+292|Jum|Fri
+293|Sab|Sat
+294|Min|Sun
+295|{d} {m}|{d} {m}
+296|{m} {y}|{m} {y}

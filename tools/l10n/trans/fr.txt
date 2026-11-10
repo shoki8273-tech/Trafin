@@ -1,0 +1,296 @@
+1|Actif
+2|Passif
+3|Capitaux propres
+4|Produits
+5|Charges
+6|Caisse
+7|Bank BCA
+8|Créances clients
+9|Stocks
+10|Équipements (net)
+11|Dettes fournisseurs
+12|Emprunts bancaires
+13|Capital social
+14|Report à nouveau
+15|Ventes
+16|Autres produits
+17|Coût des ventes
+18|Charges de salaires
+19|Charges de loyer
+20|Charges d'eau et électricité
+21|Autres charges
+22|Résumé
+23|Journal
+24|Comptes
+25|Rapports
+26|Accueil
+27|Historique
+28|Objectifs
+29|Perso
+30|Entreprise
+31|Mode entreprise
+32|Mode personnel
+33|Budget
+34|Dettes
+35|Comptes et portefeuilles
+36|Calendrier
+37|Réglages
+38|Nouvelle écriture
+39|Ajouter une transaction
+40|Enregistrer
+41|Alimentation
+42|Transport
+43|Factures
+44|Achats
+45|Loisirs
+46|Salaire
+47|Revenus annexes
+48|Cadeaux
+49|Autre
+50|Saisissez un montant supérieur à 0
+51|Choisissez une catégorie
+52|Dépense
+53|Revenu
+54|Montant
+55|Catégorie
+56|Date : {d}
+57|Note (facultatif)
+58|Saisissez un nom d'objectif
+59|Nouvel objectif d'épargne
+60|Nom de l'objectif
+61|Montant cible
+62|Échéance (facultatif, p. ex. déc. 2026)
+63|Verser sur {name}
+64|Montant du versement
+65|Choisissez un compte débité et un compte crédité
+66|Les comptes débité et crédité doivent être différents
+67|Transaction
+68|Description
+69|Compte débité
+70|Compte crédité
+71|Bonjour !
+72|Bonjour, {n}
+73|Solde net
+74|Ce mois-ci
+75|{pct} % des revenus de ce mois sont déjà dépensés
+76|Objectifs d'épargne
+77|Aucun objectif d'épargne
+78|Dernières transactions
+79|Tout
+80|Glissez vers la gauche pour supprimer une transaction
+81|« {label} » supprimé
+82|Annuler
+83|Aucune transaction
+84|Appuyez sur + pour ajouter votre première transaction
+85|Sans échéance
+86|Échéance {d}
+87|{a} sur {b}
+88|Verser
+89|Nouvel objectif
+90|Appuyez sur Nouvel objectif pour en créer un
+91|Glissez vers la gauche pour supprimer un objectif annulé
+92|Rapport mensuel
+93|Total des revenus
+94|Total des dépenses
+95|Tous les revenus
+96|Toutes les dépenses
+97|Aucune donnée ce mois-ci
+98|Ajoutez une transaction avec + ou choisissez un autre mois
+99|Violet
+100|Bleu
+101|Vert
+102|Rose
+103|Orange
+104|Réglages de base
+105|Langue
+106|Devise
+107|symbole devant
+108|symbole derrière
+109|Date
+110|Format {f} • la période commence le {d}
+111|Sécurité
+112|Verrouillage par PIN désactivé
+113|Verrouillage par PIN activé
+114|Affichage
+115|Mode du thème
+116|Clair
+117|Sombre
+118|Système
+119|Couleur du thème
+120|Profil
+121|Votre nom
+122|Nom de l'entreprise
+123|Écran d'accueil
+124|Indicateur de dépenses
+125|Affiche le pourcentage des revenus de ce mois déjà dépensé
+126|À propos
+127|Version 1.0.0
+128|Espèces
+129|Banque
+130|Portefeuille électronique
+131|Total de tous les comptes
+132|Liste des comptes
+133|Nouveau compte
+134|Aucun compte
+135|Appuyez sur Nouveau compte pour en ajouter un
+136|Glissez vers la gauche pour supprimer un compte
+137|Saisissez un nom de compte
+138|Ce nom de compte existe déjà
+139|Nom du compte
+140|Type
+141|Solde initial (facultatif)
+142|Dépensé {v}
+143|Limite {v}
+144|Reste {v}
+145|Dépassé de {v}
+146|Budget mensuel
+147|Nouveau budget
+148|Aucun budget
+149|Définissez des limites de dépenses par catégorie
+150|Glissez vers la gauche pour supprimer un budget
+151|Un budget existe déjà pour cette catégorie
+152|Saisissez une limite supérieure à 0
+153|Limite par période
+154|Payé
+155|Sans échéance
+156|Échéance {d}
+157|Marquer impayé
+158|Marquer payé
+159|Je dois
+160|On me doit
+161|Total que vous devez payer
+162|Total qui vous est dû
+163|Liste
+164|Ajouter
+165|Aucun enregistrement
+166|Appuyez sur Ajouter pour en créer un
+167|Glissez vers la gauche pour supprimer un enregistrement
+168|Saisissez un nom
+169|Enregistrer une dette
+170|Dû à
+171|Débiteur
+172|Échéance (facultatif)
+173|Échéance : {d}
+174|Entrées {a} • Sorties {b}
+175|Aucune transaction
+176|Choisissez une autre date ou ajoutez-en une avec +
+177|Exemple : {v}
+178|Position du symbole
+179|Devant
+180|Derrière
+181|Séparateur de milliers
+182|Point
+183|Virgule
+184|Espace
+185|Format de date
+186|Début de la période mensuelle
+187|La période commence le
+188|Jour {d}
+189|Période actuelle : {p}
+190|Verrouiller l'app avec un PIN
+191|L'app demande le PIN à la réouverture depuis l'arrière-plan
+192|Modifier le PIN
+193|Le PIN est stocké chiffré sur cet appareil. Ne l'oubliez pas : sinon, le seul moyen de revenir est de réinstaller l'app (vos données seront effacées).
+194|Définir le PIN
+195|PIN à 4 chiffres
+196|Annuler
+197|Le PIN doit comporter 4 chiffres
+198|Trop de tentatives. Réessayez dans un instant.
+199|PIN incorrect
+200|Money Buddy est verrouillé
+201|Saisissez votre PIN à 4 chiffres
+202|Populaires
+203|Toutes les devises ({n})
+204|Choisir une devise
+205|Rechercher un pays, une devise ou un code
+206|Introuvable
+207|Essayez un autre mot-clé
+208|Résultat net (cumulé)
+209|Situation financière
+210|L'équation comptable est équilibrée
+211|Le bilan n'est pas équilibré
+212|Actif = Passif + Capitaux propres
+213|Dernières écritures
+214|Débit
+215|Crédit
+216|Aucune écriture
+217|Appuyez sur + pour enregistrer votre première écriture
+218|Glissez vers la gauche pour supprimer une écriture
+219|Bilan
+220|Situation de l'actif, du passif et des capitaux propres
+221|Compte de résultat
+222|Produits, charges et résultat net
+223|Tableau des flux de trésorerie
+224|Entrées et sorties de trésorerie : exploitation, investissement, financement
+225|État de variation des capitaux propres
+226|Mouvement du capital et du report à nouveau
+227|Au {p}
+228|{n} • au {p}
+229|Partager le PDF
+230|Impossible de créer le PDF : {e}
+231|Total de l'actif
+232|Total du passif
+233|Résultat de l'exercice
+234|Total des capitaux propres
+235|Équilibré
+236|Déséquilibré
+237|Passif + capitaux propres
+238|Passif + capitaux propres {v}
+239|Total des produits
+240|Total des charges
+241|Résultat net
+242|Activités d'exploitation
+243|Trésorerie reçue de l'exploitation
+244|Trésorerie versée pour l'exploitation
+245|Trésorerie nette d'exploitation
+246|Activités d'investissement
+247|Achat/vente d'immobilisations
+248|Trésorerie nette d'investissement
+249|Activités de financement
+250|Emprunts, capital et dividendes
+251|Trésorerie nette de financement
+252|Hausse de la trésorerie
+253|Trésorerie en début de période
+254|Hausse nette de la trésorerie
+255|Trésorerie en fin de période
+256|Capitaux propres d'ouverture
+257|Total du solde d'ouverture
+258|Variations au cours de la période
+259|Résultat net de la période
+260|Total des variations
+261|Capitaux propres de clôture
+262|Suivre la langue du système
+263|Les noms des devises et des pays dans la liste des devises sont encore affichés en indonésien.
+264|janvier
+265|février
+266|mars
+267|avril
+268|mai
+269|juin
+270|juillet
+271|août
+272|septembre
+273|octobre
+274|novembre
+275|décembre
+276|janv
+277|févr
+278|mars
+279|avr
+280|mai
+281|juin
+282|juil
+283|août
+284|sept
+285|oct
+286|nov
+287|déc
+288|Lun
+289|Mar
+290|Mer
+291|Jeu
+292|Ven
+293|Sam
+294|Dim
+295|{d} {m}
+296|{m} {y}

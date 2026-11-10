@@ -1,0 +1,77 @@
+# (key_id, english)  -- key doubles as the Indonesian source text
+N = [
+("Aset","Assets"),("Liabilitas","Liabilities"),("Ekuitas","Equity"),("Pendapatan","Revenue"),("Beban","Expenses"),
+("Kas","Cash"),("Bank BCA","Bank BCA"),("Piutang Usaha","Accounts Receivable"),("Persediaan","Inventory"),("Peralatan (neto)","Equipment (net)"),
+("Utang Usaha","Accounts Payable"),("Utang Bank","Bank Loans"),("Modal Saham","Share Capital"),("Laba Ditahan","Retained Earnings"),("Penjualan","Sales"),
+("Pendapatan Lain","Other Income"),("Harga Pokok Penjualan","Cost of Goods Sold"),("Beban Gaji","Salary Expense"),("Beban Sewa","Rent Expense"),("Beban Listrik & Air","Utilities Expense"),
+("Beban Lain-lain","Other Expenses"),("Ringkasan","Summary"),("Jurnal","Journal"),("Akun","Accounts"),("Laporan","Reports"),
+("Home","Home"),("Riwayat","History"),("Target","Goals"),("Pribadi","Personal"),("Perusahaan","Business"),
+("Mode perusahaan","Business mode"),("Mode pribadi","Personal mode"),("Anggaran","Budget"),("Hutang","Debts"),("Rekening","Accounts & wallets"),
+("Kalender","Calendar"),("Pengaturan","Settings"),("Jurnal baru","New journal entry"),("Catat transaksi","Add transaction"),("Simpan","Save"),
+("Makanan","Food"),("Transport","Transport"),("Tagihan","Bills"),("Belanja","Shopping"),("Hiburan","Entertainment"),
+("Gaji","Salary"),("Sampingan","Side income"),("Hadiah","Gifts"),("Lainnya","Other"),("Isi nominal lebih dari 0","Enter an amount greater than 0"),
+("Pilih kategori","Choose a category"),("Pengeluaran","Expense"),("Pemasukan","Income"),("Nominal","Amount"),("Kategori","Category"),
+("Tanggal: {d}","Date: {d}"),("Catatan (opsional)","Note (optional)"),("Isi nama target","Enter a goal name"),("Target tabungan baru","New savings goal"),("Nama target","Goal name"),
+("Nominal target","Target amount"),("Tenggat (opsional, mis. Des 2026)","Deadline (optional, e.g. Dec 2026)"),("Setor ke {name}","Deposit to {name}"),("Nominal setoran","Deposit amount"),("Pilih akun debit dan kredit","Choose a debit and a credit account"),
+("Akun debit dan kredit harus berbeda","Debit and credit accounts must be different"),("Transaksi","Transaction"),("Keterangan","Description"),("Akun debit","Debit account"),("Akun kredit","Credit account"),
+("Halo!","Hello!"),("Halo, {n}","Hello, {n}"),("Saldo bersih","Net balance"),("Bulan ini","This month"),("{pct}% pemasukan bulan ini sudah terpakai","{pct}% of this month's income has been spent"),
+("Target tabungan","Savings goals"),("Belum ada target tabungan","No savings goals yet"),("Transaksi terakhir","Recent transactions"),("Semua","All"),("Geser ke kiri untuk menghapus satu transaksi","Swipe left to delete a transaction"),
+('"{label}" dihapus','"{label}" deleted'),("Urungkan","Undo"),("Belum ada transaksi","No transactions yet"),("Tekan tombol + untuk menambah transaksi pertama","Tap + to add your first transaction"),("Tanpa tenggat","No deadline"),
+("Tenggat {d}","Due {d}"),("{a} dari {b}","{a} of {b}"),("Setor","Deposit"),("Target baru","New goal"),("Tekan Target baru untuk membuat target","Tap New goal to create one"),
+("Geser ke kiri untuk menghapus target yang batal","Swipe left to delete a cancelled goal"),("Laporan bulanan","Monthly report"),("Total pemasukan","Total income"),("Total pengeluaran","Total expenses"),("Semua pemasukan","All income"),
+("Semua pengeluaran","All expenses"),("Belum ada data bulan ini","No data this month"),("Catat transaksi dengan tombol + atau pilih bulan lain","Add a transaction with + or pick another month"),("Ungu","Purple"),("Biru","Blue"),
+("Hijau","Green"),("Pink","Pink"),("Oranye","Orange"),("Pengaturan dasar","Basic settings"),("Bahasa","Language"),
+("Mata uang","Currency"),("simbol di depan","symbol before"),("simbol di belakang","symbol after"),("Tanggal","Date"),("Format {f} • periode mulai tanggal {d}","Format {f} • period starts on day {d}"),
+("Keamanan","Security"),("Kunci PIN nonaktif","PIN lock off"),("Kunci PIN aktif","PIN lock on"),("Tampilan","Appearance"),("Mode tema","Theme mode"),
+("Terang","Light"),("Gelap","Dark"),("Sistem","System"),("Warna tema","Theme color"),("Profil","Profile"),
+("Nama kamu","Your name"),("Nama perusahaan","Company name"),("Beranda","Home screen"),("Indikator pengeluaran","Spending indicator"),("Tampilkan persen pemasukan bulan ini yang sudah terpakai","Show the percentage of this month's income already spent"),
+("Tentang","About"),("Versi 1.0.0","Version 1.0.0"),("Tunai","Cash"),("Bank","Bank"),("E-wallet","E-wallet"),
+("Total semua rekening","Total of all accounts"),("Daftar rekening","Account list"),("Rekening baru","New account"),("Belum ada rekening","No accounts yet"),("Tekan Rekening baru untuk menambah","Tap New account to add one"),
+("Geser ke kiri untuk menghapus rekening","Swipe left to delete an account"),("Isi nama rekening","Enter an account name"),("Nama rekening sudah ada","That account name already exists"),("Nama rekening","Account name"),("Jenis","Type"),
+("Saldo awal (opsional)","Opening balance (optional)"),("Terpakai {v}","Spent {v}"),("Batas {v}","Limit {v}"),("Sisa {v}","Left {v}"),("Melebihi {v}","Over by {v}"),
+("Anggaran bulanan","Monthly budget"),("Anggaran baru","New budget"),("Belum ada anggaran","No budgets yet"),("Atur batas pengeluaran per kategori","Set spending limits per category"),("Geser ke kiri untuk menghapus anggaran","Swipe left to delete a budget"),
+("Anggaran kategori ini sudah ada","A budget for this category already exists"),("Isi batas lebih dari 0","Enter a limit greater than 0"),("Batas per periode","Limit per period"),("Lunas","Paid"),("Tanpa jatuh tempo","No due date"),
+("Jatuh tempo {d}","Due {d}"),("Batal lunas","Mark unpaid"),("Tandai lunas","Mark paid"),("Saya berutang","I owe"),("Piutang saya","Owed to me"),
+("Total yang harus kamu bayar","Total you need to pay"),("Total yang harus dibayar ke kamu","Total owed to you"),("Daftar","List"),("Catat baru","Add new"),("Belum ada catatan","No records yet"),
+("Tekan Catat baru untuk menambah","Tap Add new to add one"),("Geser ke kiri untuk menghapus catatan","Swipe left to delete a record"),("Isi nama","Enter a name"),("Catat hutang","Record debt"),("Berutang kepada","Owed to"),
+("Yang berutang","Owed by"),("Jatuh tempo (opsional)","Due date (optional)"),("Jatuh tempo: {d}","Due: {d}"),("Masuk {a} • Keluar {b}","In {a} • Out {b}"),("Tidak ada transaksi","No transactions"),
+("Pilih tanggal lain atau catat dengan tombol +","Pick another date or add one with +"),("Contoh: {v}","Example: {v}"),("Posisi simbol","Symbol position"),("Di depan","Before"),("Di belakang","After"),
+("Pemisah ribuan","Thousands separator"),("Titik","Dot"),("Koma","Comma"),("Spasi","Space"),("Format tanggal","Date format"),
+("Awal periode bulanan","Monthly period start"),("Periode mulai tanggal","Period starts on day"),("Tanggal {d}","Day {d}"),("Periode sekarang: {p}","Current period: {p}"),("Kunci aplikasi dengan PIN","Lock app with PIN"),
+("Aplikasi meminta PIN saat dibuka kembali dari latar belakang","The app asks for the PIN when reopened from the background"),("Ubah PIN","Change PIN"),
+("PIN disimpan terenkripsi di perangkat. Jangan lupa PIN-mu: jika lupa, satu-satunya cara masuk lagi adalah memasang ulang aplikasi (data ikut terhapus).","The PIN is stored encrypted on this device. Don't forget it: if you do, the only way back in is to reinstall the app (your data will be erased)."),
+("Atur PIN","Set PIN"),("PIN 4 digit","4-digit PIN"),("Batal","Cancel"),("PIN harus 4 digit","PIN must be 4 digits"),
+("Terlalu banyak percobaan. Coba lagi sebentar lagi.","Too many attempts. Try again shortly."),("PIN salah","Wrong PIN"),("Money Buddy terkunci","Money Buddy is locked"),("Masukkan PIN 4 digit","Enter your 4-digit PIN"),("Populer","Popular"),
+("Semua mata uang ({n})","All currencies ({n})"),("Pilih mata uang","Choose currency"),("Cari negara, mata uang, atau kode","Search country, currency or code"),("Tidak ditemukan","Not found"),("Coba kata kunci lain","Try another keyword"),
+("Laba bersih (kumulatif)","Net profit (cumulative)"),("Posisi keuangan","Financial position"),("Persamaan akuntansi seimbang","Accounting equation is balanced"),("Neraca tidak seimbang","Balance sheet is not balanced"),("Aset = Liabilitas + Ekuitas","Assets = Liabilities + Equity"),
+("Jurnal terbaru","Latest journal entries"),("Debit","Debit"),("Kredit","Credit"),("Belum ada jurnal","No journal entries yet"),("Tekan tombol + untuk mencatat jurnal pertama","Tap + to record your first journal entry"),
+("Geser ke kiri untuk menghapus satu jurnal","Swipe left to delete a journal entry"),("Neraca","Balance Sheet"),("Posisi aset, liabilitas, dan ekuitas","Position of assets, liabilities and equity"),("Laporan Laba Rugi / LO","Income Statement"),("Pendapatan, beban, dan laba bersih","Revenue, expenses and net profit"),
+("Laporan Arus Kas","Cash Flow Statement"),("Kas masuk dan keluar: operasi, investasi, pendanaan","Cash in and out: operating, investing, financing"),("Laporan Perubahan Ekuitas","Statement of Changes in Equity"),("Pergerakan modal dan laba ditahan","Movement of capital and retained earnings"),("Per {p}","As of {p}"),
+("{n} • per {p}","{n} • as of {p}"),("Bagikan PDF","Share PDF"),("Gagal membuat PDF: {e}","Could not create PDF: {e}"),("Total aset","Total assets"),("Total liabilitas","Total liabilities"),
+("Laba tahun berjalan","Current year profit"),("Total ekuitas","Total equity"),("Seimbang","Balanced"),("Tidak seimbang","Not balanced"),("Liabilitas + ekuitas","Liabilities + equity"),
+("Liabilitas + ekuitas {v}","Liabilities + equity {v}"),("Total pendapatan","Total revenue"),("Total beban","Total expenses"),("Laba bersih","Net profit"),("Aktivitas operasi","Operating activities"),
+("Kas masuk dari operasi","Cash received from operations"),("Kas keluar untuk operasi","Cash paid for operations"),("Kas bersih operasi","Net operating cash"),("Aktivitas investasi","Investing activities"),("Pembelian/penjualan aset tetap","Purchase/sale of fixed assets"),
+("Kas bersih investasi","Net investing cash"),("Aktivitas pendanaan","Financing activities"),("Pinjaman, modal, dan dividen","Loans, capital and dividends"),("Kas bersih pendanaan","Net financing cash"),("Kenaikan kas","Increase in cash"),
+("Kas awal periode","Cash at start of period"),("Kenaikan kas bersih","Net increase in cash"),("Kas akhir periode","Cash at end of period"),("Saldo awal ekuitas","Opening equity"),("Total saldo awal","Total opening balance"),
+("Perubahan selama periode","Changes during the period"),("Laba bersih periode berjalan","Net profit for the period"),("Total perubahan","Total changes"),("Saldo akhir ekuitas","Closing equity"),("Ikuti bahasa sistem","Follow system language"),
+("Nama mata uang dan negara di daftar mata uang masih memakai bahasa Indonesia.","Currency and country names in the currency list are still shown in Indonesian."),
+]
+# structural keys: (key, indonesian, english)
+S = []
+for i,(a,b) in enumerate(zip("Januari Februari Maret April Mei Juni Juli Agustus September Oktober November Desember".split(),
+    "January February March April May June July August September October November December".split()),1):
+    S.append((f"m{i}",a,b))
+for i,(a,b) in enumerate(zip("Jan Feb Mar Apr Mei Jun Jul Agu Sep Okt Nov Des".split(),
+    "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()),1):
+    S.append((f"s{i}",a,b))
+for i,(a,b) in enumerate(zip("Sen Sel Rab Kam Jum Sab Min".split(),"Mon Tue Wed Thu Fri Sat Sun".split()),1):
+    S.append((f"w{i}",a,b))
+S.append(("dm","{d} {m}","{d} {m}"))
+S.append(("my","{m} {y}","{m} {y}"))
+ALL=[(k,k,e) for k,e in N]+S   # (key, indonesian_text, english)
+if __name__=='__main__':
+    import sys
+    print(len(N),len(S),len(ALL))
+    out=open(sys.argv[1],'w',encoding='utf8')
+    for i,(k,idt,en) in enumerate(ALL,1):
+        out.write(f"{i}|{idt}|{en}\n")

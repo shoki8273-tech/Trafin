@@ -1,0 +1,296 @@
+1|Aset
+2|Liabiliti
+3|Ekuiti
+4|Hasil
+5|Perbelanjaan
+6|Tunai
+7|Bank BCA
+8|Akaun Belum Terima
+9|Inventori
+10|Peralatan (bersih)
+11|Akaun Belum Bayar
+12|Pinjaman Bank
+13|Modal Saham
+14|Pendapatan Tertahan
+15|Jualan
+16|Pendapatan Lain
+17|Kos Barang Dijual
+18|Perbelanjaan Gaji
+19|Perbelanjaan Sewa
+20|Perbelanjaan Utiliti
+21|Perbelanjaan Lain
+22|Ringkasan
+23|Jurnal
+24|Akaun
+25|Laporan
+26|Utama
+27|Sejarah
+28|Matlamat
+29|Peribadi
+30|Perniagaan
+31|Mod perniagaan
+32|Mod peribadi
+33|Bajet
+34|Hutang
+35|Akaun & dompet
+36|Kalendar
+37|Tetapan
+38|Jurnal baharu
+39|Catat transaksi
+40|Simpan
+41|Makanan
+42|Pengangkutan
+43|Bil
+44|Beli-belah
+45|Hiburan
+46|Gaji
+47|Pendapatan sampingan
+48|Hadiah
+49|Lain-lain
+50|Masukkan jumlah lebih daripada 0
+51|Pilih kategori
+52|Perbelanjaan
+53|Pendapatan
+54|Jumlah
+55|Kategori
+56|Tarikh: {d}
+57|Nota (pilihan)
+58|Masukkan nama matlamat
+59|Matlamat simpanan baharu
+60|Nama matlamat
+61|Jumlah sasaran
+62|Tarikh akhir (pilihan, cth. Dis 2026)
+63|Deposit ke {name}
+64|Jumlah deposit
+65|Pilih akaun debit dan kredit
+66|Akaun debit dan kredit mesti berbeza
+67|Transaksi
+68|Keterangan
+69|Akaun debit
+70|Akaun kredit
+71|Helo!
+72|Helo, {n}
+73|Baki bersih
+74|Bulan ini
+75|{pct}% pendapatan bulan ini telah digunakan
+76|Matlamat simpanan
+77|Belum ada matlamat simpanan
+78|Transaksi terkini
+79|Semua
+80|Leret ke kiri untuk memadam transaksi
+81|"{label}" dipadam
+82|Buat asal
+83|Belum ada transaksi
+84|Tekan + untuk menambah transaksi pertama
+85|Tiada tarikh akhir
+86|Tarikh akhir {d}
+87|{a} daripada {b}
+88|Deposit
+89|Matlamat baharu
+90|Tekan Matlamat baharu untuk membuat satu
+91|Leret ke kiri untuk memadam matlamat yang dibatalkan
+92|Laporan bulanan
+93|Jumlah pendapatan
+94|Jumlah perbelanjaan
+95|Semua pendapatan
+96|Semua perbelanjaan
+97|Belum ada data bulan ini
+98|Catat transaksi dengan + atau pilih bulan lain
+99|Ungu
+100|Biru
+101|Hijau
+102|Merah jambu
+103|Oren
+104|Tetapan asas
+105|Bahasa
+106|Mata wang
+107|simbol di hadapan
+108|simbol di belakang
+109|Tarikh
+110|Format {f} • tempoh bermula pada hari {d}
+111|Keselamatan
+112|Kunci PIN mati
+113|Kunci PIN hidup
+114|Paparan
+115|Mod tema
+116|Cerah
+117|Gelap
+118|Sistem
+119|Warna tema
+120|Profil
+121|Nama anda
+122|Nama syarikat
+123|Skrin utama
+124|Penunjuk perbelanjaan
+125|Papar peratusan pendapatan bulan ini yang telah dibelanjakan
+126|Perihal
+127|Versi 1.0.0
+128|Tunai
+129|Bank
+130|E-dompet
+131|Jumlah semua akaun
+132|Senarai akaun
+133|Akaun baharu
+134|Belum ada akaun
+135|Tekan Akaun baharu untuk menambah
+136|Leret ke kiri untuk memadam akaun
+137|Masukkan nama akaun
+138|Nama akaun sudah wujud
+139|Nama akaun
+140|Jenis
+141|Baki awal (pilihan)
+142|Digunakan {v}
+143|Had {v}
+144|Baki {v}
+145|Melebihi {v}
+146|Bajet bulanan
+147|Bajet baharu
+148|Belum ada bajet
+149|Tetapkan had perbelanjaan bagi setiap kategori
+150|Leret ke kiri untuk memadam bajet
+151|Bajet untuk kategori ini sudah wujud
+152|Masukkan had lebih daripada 0
+153|Had setiap tempoh
+154|Selesai bayar
+155|Tiada tarikh akhir bayaran
+156|Akhir bayaran {d}
+157|Batal selesai
+158|Tandakan selesai
+159|Saya berhutang
+160|Hutang kepada saya
+161|Jumlah yang perlu anda bayar
+162|Jumlah yang perlu dibayar kepada anda
+163|Senarai
+164|Catat baharu
+165|Belum ada rekod
+166|Tekan Catat baharu untuk menambah
+167|Leret ke kiri untuk memadam rekod
+168|Masukkan nama
+169|Catat hutang
+170|Berhutang kepada
+171|Yang berhutang
+172|Tarikh akhir bayaran (pilihan)
+173|Akhir bayaran: {d}
+174|Masuk {a} • Keluar {b}
+175|Tiada transaksi
+176|Pilih tarikh lain atau catat dengan +
+177|Contoh: {v}
+178|Kedudukan simbol
+179|Di hadapan
+180|Di belakang
+181|Pemisah ribuan
+182|Titik
+183|Koma
+184|Ruang
+185|Format tarikh
+186|Permulaan tempoh bulanan
+187|Tempoh bermula pada hari
+188|Hari {d}
+189|Tempoh semasa: {p}
+190|Kunci aplikasi dengan PIN
+191|Aplikasi meminta PIN apabila dibuka semula dari latar belakang
+192|Tukar PIN
+193|PIN disimpan dalam bentuk disulitkan pada peranti ini. Jangan lupa PIN anda: jika lupa, satu-satunya cara masuk semula ialah memasang semula aplikasi (data anda akan dipadam).
+194|Tetapkan PIN
+195|PIN 4 digit
+196|Batal
+197|PIN mesti 4 digit
+198|Terlalu banyak percubaan. Cuba lagi sebentar nanti.
+199|PIN salah
+200|Money Buddy dikunci
+201|Masukkan PIN 4 digit anda
+202|Popular
+203|Semua mata wang ({n})
+204|Pilih mata wang
+205|Cari negara, mata wang atau kod
+206|Tidak ditemui
+207|Cuba kata kunci lain
+208|Untung bersih (kumulatif)
+209|Kedudukan kewangan
+210|Persamaan perakaunan seimbang
+211|Kunci kira-kira tidak seimbang
+212|Aset = Liabiliti + Ekuiti
+213|Jurnal terkini
+214|Debit
+215|Kredit
+216|Belum ada jurnal
+217|Tekan + untuk mencatat jurnal pertama
+218|Leret ke kiri untuk memadam jurnal
+219|Kunci Kira-kira
+220|Kedudukan aset, liabiliti dan ekuiti
+221|Penyata Pendapatan
+222|Hasil, perbelanjaan dan untung bersih
+223|Penyata Aliran Tunai
+224|Tunai masuk dan keluar: operasi, pelaburan, pembiayaan
+225|Penyata Perubahan Ekuiti
+226|Pergerakan modal dan pendapatan tertahan
+227|Pada {p}
+228|{n} • pada {p}
+229|Kongsi PDF
+230|Gagal membuat PDF: {e}
+231|Jumlah aset
+232|Jumlah liabiliti
+233|Untung tahun semasa
+234|Jumlah ekuiti
+235|Seimbang
+236|Tidak seimbang
+237|Liabiliti + ekuiti
+238|Liabiliti + ekuiti {v}
+239|Jumlah hasil
+240|Jumlah perbelanjaan
+241|Untung bersih
+242|Aktiviti operasi
+243|Tunai diterima daripada operasi
+244|Tunai dibayar untuk operasi
+245|Tunai bersih operasi
+246|Aktiviti pelaburan
+247|Pembelian/jualan aset tetap
+248|Tunai bersih pelaburan
+249|Aktiviti pembiayaan
+250|Pinjaman, modal dan dividen
+251|Tunai bersih pembiayaan
+252|Pertambahan tunai
+253|Tunai awal tempoh
+254|Pertambahan bersih tunai
+255|Tunai akhir tempoh
+256|Ekuiti awal
+257|Jumlah baki awal
+258|Perubahan sepanjang tempoh
+259|Untung bersih tempoh semasa
+260|Jumlah perubahan
+261|Ekuiti akhir
+262|Ikut bahasa sistem
+263|Nama mata wang dan negara dalam senarai mata wang masih dalam bahasa Indonesia.
+264|Januari
+265|Februari
+266|Mac
+267|April
+268|Mei
+269|Jun
+270|Julai
+271|Ogos
+272|September
+273|Oktober
+274|November
+275|Disember
+276|Jan
+277|Feb
+278|Mac
+279|Apr
+280|Mei
+281|Jun
+282|Jul
+283|Ogo
+284|Sep
+285|Okt
+286|Nov
+287|Dis
+288|Isn
+289|Sel
+290|Rab
+291|Kha
+292|Jum
+293|Sab
+294|Ahd
+295|{d} {m}
+296|{m} {y}

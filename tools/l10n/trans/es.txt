@@ -1,0 +1,296 @@
+1|Activos
+2|Pasivos
+3|Patrimonio
+4|Ingresos
+5|Gastos
+6|Efectivo
+7|Bank BCA
+8|Cuentas por cobrar
+9|Inventario
+10|Equipos (neto)
+11|Cuentas por pagar
+12|Préstamos bancarios
+13|Capital social
+14|Utilidades retenidas
+15|Ventas
+16|Otros ingresos
+17|Costo de ventas
+18|Gasto de sueldos
+19|Gasto de alquiler
+20|Gasto de luz y agua
+21|Otros gastos
+22|Resumen
+23|Diario
+24|Cuentas
+25|Informes
+26|Inicio
+27|Historial
+28|Metas
+29|Personal
+30|Empresa
+31|Modo empresa
+32|Modo personal
+33|Presupuesto
+34|Deudas
+35|Cuentas y billeteras
+36|Calendario
+37|Ajustes
+38|Nuevo asiento
+39|Registrar transacción
+40|Guardar
+41|Comida
+42|Transporte
+43|Facturas
+44|Compras
+45|Ocio
+46|Sueldo
+47|Ingreso extra
+48|Regalos
+49|Otros
+50|Ingresa un monto mayor que 0
+51|Elige una categoría
+52|Gasto
+53|Ingreso
+54|Monto
+55|Categoría
+56|Fecha: {d}
+57|Nota (opcional)
+58|Ingresa el nombre de la meta
+59|Nueva meta de ahorro
+60|Nombre de la meta
+61|Monto de la meta
+62|Fecha límite (opcional, p. ej. dic 2026)
+63|Depositar en {name}
+64|Monto del depósito
+65|Elige una cuenta de débito y una de crédito
+66|Las cuentas de débito y crédito deben ser distintas
+67|Transacción
+68|Descripción
+69|Cuenta de débito
+70|Cuenta de crédito
+71|¡Hola!
+72|Hola, {n}
+73|Saldo neto
+74|Este mes
+75|Ya usaste el {pct}% de tus ingresos de este mes
+76|Metas de ahorro
+77|Aún no hay metas de ahorro
+78|Últimas transacciones
+79|Todas
+80|Desliza a la izquierda para eliminar una transacción
+81|"{label}" eliminado
+82|Deshacer
+83|Aún no hay transacciones
+84|Toca + para agregar tu primera transacción
+85|Sin fecha límite
+86|Vence {d}
+87|{a} de {b}
+88|Depositar
+89|Nueva meta
+90|Toca Nueva meta para crear una
+91|Desliza a la izquierda para eliminar una meta cancelada
+92|Informe mensual
+93|Total de ingresos
+94|Total de gastos
+95|Todos los ingresos
+96|Todos los gastos
+97|Sin datos este mes
+98|Agrega una transacción con + o elige otro mes
+99|Morado
+100|Azul
+101|Verde
+102|Rosa
+103|Naranja
+104|Ajustes básicos
+105|Idioma
+106|Moneda
+107|símbolo delante
+108|símbolo detrás
+109|Fecha
+110|Formato {f} • el periodo inicia el día {d}
+111|Seguridad
+112|Bloqueo con PIN desactivado
+113|Bloqueo con PIN activado
+114|Apariencia
+115|Modo de tema
+116|Claro
+117|Oscuro
+118|Sistema
+119|Color del tema
+120|Perfil
+121|Tu nombre
+122|Nombre de la empresa
+123|Pantalla de inicio
+124|Indicador de gastos
+125|Muestra el porcentaje de los ingresos de este mes que ya se usó
+126|Acerca de
+127|Versión 1.0.0
+128|Efectivo
+129|Banco
+130|Billetera digital
+131|Total de todas las cuentas
+132|Lista de cuentas
+133|Nueva cuenta
+134|Aún no hay cuentas
+135|Toca Nueva cuenta para agregar una
+136|Desliza a la izquierda para eliminar una cuenta
+137|Ingresa el nombre de la cuenta
+138|Ese nombre de cuenta ya existe
+139|Nombre de la cuenta
+140|Tipo
+141|Saldo inicial (opcional)
+142|Gastado {v}
+143|Límite {v}
+144|Resta {v}
+145|Excedido por {v}
+146|Presupuesto mensual
+147|Nuevo presupuesto
+148|Aún no hay presupuestos
+149|Define límites de gasto por categoría
+150|Desliza a la izquierda para eliminar un presupuesto
+151|Ya existe un presupuesto para esta categoría
+152|Ingresa un límite mayor que 0
+153|Límite por periodo
+154|Pagado
+155|Sin vencimiento
+156|Vence {d}
+157|Marcar impago
+158|Marcar pagado
+159|Yo debo
+160|Me deben
+161|Total que debes pagar
+162|Total que te deben pagar
+163|Lista
+164|Agregar
+165|Aún no hay registros
+166|Toca Agregar para añadir uno
+167|Desliza a la izquierda para eliminar un registro
+168|Ingresa un nombre
+169|Registrar deuda
+170|Se debe a
+171|Deudor
+172|Vencimiento (opcional)
+173|Vence: {d}
+174|Entra {a} • Sale {b}
+175|Sin transacciones
+176|Elige otra fecha o agrega una con +
+177|Ejemplo: {v}
+178|Posición del símbolo
+179|Delante
+180|Detrás
+181|Separador de miles
+182|Punto
+183|Coma
+184|Espacio
+185|Formato de fecha
+186|Inicio del periodo mensual
+187|El periodo inicia el día
+188|Día {d}
+189|Periodo actual: {p}
+190|Bloquear la app con PIN
+191|La app pide el PIN al reabrirla desde segundo plano
+192|Cambiar PIN
+193|El PIN se guarda cifrado en este dispositivo. No lo olvides: si lo olvidas, la única forma de volver a entrar es reinstalar la app (tus datos se borrarán).
+194|Definir PIN
+195|PIN de 4 dígitos
+196|Cancelar
+197|El PIN debe tener 4 dígitos
+198|Demasiados intentos. Inténtalo de nuevo en un momento.
+199|PIN incorrecto
+200|Money Buddy está bloqueado
+201|Ingresa tu PIN de 4 dígitos
+202|Populares
+203|Todas las monedas ({n})
+204|Elige una moneda
+205|Busca país, moneda o código
+206|No se encontró
+207|Prueba otra palabra clave
+208|Utilidad neta (acumulada)
+209|Situación financiera
+210|La ecuación contable está equilibrada
+211|El balance general no está equilibrado
+212|Activos = Pasivos + Patrimonio
+213|Últimos asientos
+214|Débito
+215|Crédito
+216|Aún no hay asientos
+217|Toca + para registrar tu primer asiento
+218|Desliza a la izquierda para eliminar un asiento
+219|Balance general
+220|Posición de activos, pasivos y patrimonio
+221|Estado de resultados
+222|Ingresos, gastos y utilidad neta
+223|Estado de flujo de efectivo
+224|Entradas y salidas de efectivo: operación, inversión, financiamiento
+225|Estado de cambios en el patrimonio
+226|Movimiento del capital y las utilidades retenidas
+227|Al {p}
+228|{n} • al {p}
+229|Compartir PDF
+230|No se pudo crear el PDF: {e}
+231|Total de activos
+232|Total de pasivos
+233|Utilidad del ejercicio
+234|Total del patrimonio
+235|Equilibrado
+236|No equilibrado
+237|Pasivos + patrimonio
+238|Pasivos + patrimonio {v}
+239|Total de ingresos
+240|Total de gastos
+241|Utilidad neta
+242|Actividades de operación
+243|Efectivo recibido de operaciones
+244|Efectivo pagado por operaciones
+245|Efectivo neto de operación
+246|Actividades de inversión
+247|Compra/venta de activos fijos
+248|Efectivo neto de inversión
+249|Actividades de financiamiento
+250|Préstamos, capital y dividendos
+251|Efectivo neto de financiamiento
+252|Aumento de efectivo
+253|Efectivo al inicio del periodo
+254|Aumento neto de efectivo
+255|Efectivo al final del periodo
+256|Patrimonio inicial
+257|Total del saldo inicial
+258|Cambios durante el periodo
+259|Utilidad neta del periodo
+260|Total de cambios
+261|Patrimonio final
+262|Seguir el idioma del sistema
+263|Los nombres de monedas y países en la lista de monedas aún se muestran en indonesio.
+264|enero
+265|febrero
+266|marzo
+267|abril
+268|mayo
+269|junio
+270|julio
+271|agosto
+272|septiembre
+273|octubre
+274|noviembre
+275|diciembre
+276|ene
+277|feb
+278|mar
+279|abr
+280|may
+281|jun
+282|jul
+283|ago
+284|sep
+285|oct
+286|nov
+287|dic
+288|Lun
+289|Mar
+290|Mié
+291|Jue
+292|Vie
+293|Sáb
+294|Dom
+295|{d} {m}
+296|{m} de {y}

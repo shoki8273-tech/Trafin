@@ -1,0 +1,296 @@
+1|Tài sản
+2|Nợ phải trả
+3|Vốn chủ sở hữu
+4|Doanh thu
+5|Chi phí
+6|Tiền mặt
+7|Bank BCA
+8|Phải thu khách hàng
+9|Hàng tồn kho
+10|Thiết bị (ròng)
+11|Phải trả người bán
+12|Vay ngân hàng
+13|Vốn cổ phần
+14|Lợi nhuận giữ lại
+15|Doanh số bán hàng
+16|Thu nhập khác
+17|Giá vốn hàng bán
+18|Chi phí lương
+19|Chi phí thuê
+20|Chi phí điện nước
+21|Chi phí khác
+22|Tổng quan
+23|Nhật ký
+24|Tài khoản
+25|Báo cáo
+26|Trang chủ
+27|Lịch sử
+28|Mục tiêu
+29|Cá nhân
+30|Doanh nghiệp
+31|Chế độ doanh nghiệp
+32|Chế độ cá nhân
+33|Ngân sách
+34|Khoản nợ
+35|Tài khoản & ví
+36|Lịch
+37|Cài đặt
+38|Bút toán mới
+39|Ghi giao dịch
+40|Lưu
+41|Ăn uống
+42|Di chuyển
+43|Hóa đơn
+44|Mua sắm
+45|Giải trí
+46|Lương
+47|Thu nhập phụ
+48|Quà tặng
+49|Khác
+50|Nhập số tiền lớn hơn 0
+51|Chọn danh mục
+52|Chi tiêu
+53|Thu nhập
+54|Số tiền
+55|Danh mục
+56|Ngày: {d}
+57|Ghi chú (tùy chọn)
+58|Nhập tên mục tiêu
+59|Mục tiêu tiết kiệm mới
+60|Tên mục tiêu
+61|Số tiền mục tiêu
+62|Hạn chót (tùy chọn, vd. Th12 2026)
+63|Nạp vào {name}
+64|Số tiền nạp
+65|Chọn tài khoản ghi nợ và ghi có
+66|Tài khoản ghi nợ và ghi có phải khác nhau
+67|Giao dịch
+68|Mô tả
+69|Tài khoản ghi nợ
+70|Tài khoản ghi có
+71|Xin chào!
+72|Xin chào, {n}
+73|Số dư ròng
+74|Tháng này
+75|Đã dùng {pct}% thu nhập tháng này
+76|Mục tiêu tiết kiệm
+77|Chưa có mục tiêu tiết kiệm
+78|Giao dịch gần đây
+79|Tất cả
+80|Vuốt sang trái để xóa giao dịch
+81|Đã xóa "{label}"
+82|Hoàn tác
+83|Chưa có giao dịch
+84|Nhấn + để thêm giao dịch đầu tiên
+85|Không có hạn chót
+86|Hạn chót {d}
+87|{a} / {b}
+88|Nạp tiền
+89|Mục tiêu mới
+90|Nhấn Mục tiêu mới để tạo
+91|Vuốt sang trái để xóa mục tiêu đã hủy
+92|Báo cáo tháng
+93|Tổng thu nhập
+94|Tổng chi tiêu
+95|Toàn bộ thu nhập
+96|Toàn bộ chi tiêu
+97|Tháng này chưa có dữ liệu
+98|Ghi giao dịch bằng + hoặc chọn tháng khác
+99|Tím
+100|Xanh dương
+101|Xanh lá
+102|Hồng
+103|Cam
+104|Cài đặt cơ bản
+105|Ngôn ngữ
+106|Tiền tệ
+107|ký hiệu ở trước
+108|ký hiệu ở sau
+109|Ngày
+110|Định dạng {f} • kỳ bắt đầu từ ngày {d}
+111|Bảo mật
+112|Khóa PIN đang tắt
+113|Khóa PIN đang bật
+114|Giao diện
+115|Chế độ giao diện
+116|Sáng
+117|Tối
+118|Hệ thống
+119|Màu giao diện
+120|Hồ sơ
+121|Tên của bạn
+122|Tên công ty
+123|Màn hình chính
+124|Chỉ báo chi tiêu
+125|Hiển thị phần trăm thu nhập tháng này đã chi
+126|Giới thiệu
+127|Phiên bản 1.0.0
+128|Tiền mặt
+129|Ngân hàng
+130|Ví điện tử
+131|Tổng tất cả tài khoản
+132|Danh sách tài khoản
+133|Tài khoản mới
+134|Chưa có tài khoản
+135|Nhấn Tài khoản mới để thêm
+136|Vuốt sang trái để xóa tài khoản
+137|Nhập tên tài khoản
+138|Tên tài khoản đã tồn tại
+139|Tên tài khoản
+140|Loại
+141|Số dư đầu (tùy chọn)
+142|Đã dùng {v}
+143|Hạn mức {v}
+144|Còn {v}
+145|Vượt {v}
+146|Ngân sách tháng
+147|Ngân sách mới
+148|Chưa có ngân sách
+149|Đặt hạn mức chi tiêu theo danh mục
+150|Vuốt sang trái để xóa ngân sách
+151|Danh mục này đã có ngân sách
+152|Nhập hạn mức lớn hơn 0
+153|Hạn mức mỗi kỳ
+154|Đã thanh toán
+155|Không có hạn thanh toán
+156|Đến hạn {d}
+157|Bỏ đánh dấu
+158|Đánh dấu đã trả
+159|Tôi nợ
+160|Nợ tôi
+161|Tổng số bạn cần trả
+162|Tổng số cần trả cho bạn
+163|Danh sách
+164|Ghi mới
+165|Chưa có bản ghi
+166|Nhấn Ghi mới để thêm
+167|Vuốt sang trái để xóa bản ghi
+168|Nhập tên
+169|Ghi khoản nợ
+170|Nợ ai
+171|Người nợ
+172|Hạn thanh toán (tùy chọn)
+173|Đến hạn: {d}
+174|Thu {a} • Chi {b}
+175|Không có giao dịch
+176|Chọn ngày khác hoặc ghi bằng +
+177|Ví dụ: {v}
+178|Vị trí ký hiệu
+179|Ở trước
+180|Ở sau
+181|Dấu phân cách hàng nghìn
+182|Dấu chấm
+183|Dấu phẩy
+184|Khoảng trắng
+185|Định dạng ngày
+186|Ngày bắt đầu kỳ tháng
+187|Kỳ bắt đầu từ ngày
+188|Ngày {d}
+189|Kỳ hiện tại: {p}
+190|Khóa ứng dụng bằng PIN
+191|Ứng dụng sẽ yêu cầu PIN khi mở lại từ nền
+192|Đổi PIN
+193|PIN được lưu mã hóa trên thiết bị này. Đừng quên PIN: nếu quên, cách duy nhất để vào lại là cài lại ứng dụng (dữ liệu sẽ bị xóa).
+194|Đặt PIN
+195|PIN 4 chữ số
+196|Hủy
+197|PIN phải gồm 4 chữ số
+198|Thử quá nhiều lần. Vui lòng thử lại sau ít phút.
+199|PIN sai
+200|Money Buddy đã khóa
+201|Nhập PIN 4 chữ số
+202|Phổ biến
+203|Tất cả tiền tệ ({n})
+204|Chọn tiền tệ
+205|Tìm quốc gia, tiền tệ hoặc mã
+206|Không tìm thấy
+207|Thử từ khóa khác
+208|Lợi nhuận ròng (lũy kế)
+209|Tình hình tài chính
+210|Phương trình kế toán cân bằng
+211|Bảng cân đối kế toán không cân bằng
+212|Tài sản = Nợ phải trả + Vốn chủ sở hữu
+213|Bút toán mới nhất
+214|Nợ
+215|Có
+216|Chưa có bút toán
+217|Nhấn + để ghi bút toán đầu tiên
+218|Vuốt sang trái để xóa bút toán
+219|Bảng cân đối kế toán
+220|Tình hình tài sản, nợ phải trả và vốn chủ sở hữu
+221|Báo cáo kết quả kinh doanh
+222|Doanh thu, chi phí và lợi nhuận ròng
+223|Báo cáo lưu chuyển tiền tệ
+224|Tiền thu và chi: kinh doanh, đầu tư, tài chính
+225|Báo cáo thay đổi vốn chủ sở hữu
+226|Biến động vốn và lợi nhuận giữ lại
+227|Tại {p}
+228|{n} • tại {p}
+229|Chia sẻ PDF
+230|Không thể tạo PDF: {e}
+231|Tổng tài sản
+232|Tổng nợ phải trả
+233|Lợi nhuận năm nay
+234|Tổng vốn chủ sở hữu
+235|Cân bằng
+236|Không cân bằng
+237|Nợ phải trả + vốn chủ sở hữu
+238|Nợ phải trả + vốn chủ sở hữu {v}
+239|Tổng doanh thu
+240|Tổng chi phí
+241|Lợi nhuận ròng
+242|Hoạt động kinh doanh
+243|Tiền thu từ hoạt động kinh doanh
+244|Tiền chi cho hoạt động kinh doanh
+245|Tiền thuần từ kinh doanh
+246|Hoạt động đầu tư
+247|Mua/bán tài sản cố định
+248|Tiền thuần từ đầu tư
+249|Hoạt động tài chính
+250|Vay, vốn và cổ tức
+251|Tiền thuần từ tài chính
+252|Tiền tăng lên
+253|Tiền đầu kỳ
+254|Tiền tăng thuần
+255|Tiền cuối kỳ
+256|Vốn chủ sở hữu đầu kỳ
+257|Tổng số dư đầu kỳ
+258|Thay đổi trong kỳ
+259|Lợi nhuận ròng trong kỳ
+260|Tổng thay đổi
+261|Vốn chủ sở hữu cuối kỳ
+262|Theo ngôn ngữ hệ thống
+263|Tên tiền tệ và quốc gia trong danh sách tiền tệ vẫn hiển thị bằng tiếng Indonesia.
+264|Tháng 1
+265|Tháng 2
+266|Tháng 3
+267|Tháng 4
+268|Tháng 5
+269|Tháng 6
+270|Tháng 7
+271|Tháng 8
+272|Tháng 9
+273|Tháng 10
+274|Tháng 11
+275|Tháng 12
+276|Th1
+277|Th2
+278|Th3
+279|Th4
+280|Th5
+281|Th6
+282|Th7
+283|Th8
+284|Th9
+285|Th10
+286|Th11
+287|Th12
+288|T2
+289|T3
+290|T4
+291|T5
+292|T6
+293|T7
+294|CN
+295|{d} {m}
+296|{m} {y}

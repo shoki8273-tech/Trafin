@@ -1,0 +1,296 @@
+1|Varlıklar
+2|Yükümlülükler
+3|Özkaynaklar
+4|Gelirler
+5|Giderler
+6|Kasa
+7|Bank BCA
+8|Ticari Alacaklar
+9|Stoklar
+10|Ekipman (net)
+11|Ticari Borçlar
+12|Banka Kredileri
+13|Sermaye
+14|Geçmiş Yıl Karları
+15|Satışlar
+16|Diğer Gelirler
+17|Satılan Malın Maliyeti
+18|Maaş Gideri
+19|Kira Gideri
+20|Elektrik ve Su Gideri
+21|Diğer Giderler
+22|Özet
+23|Yevmiye
+24|Hesaplar
+25|Raporlar
+26|Ana Sayfa
+27|Geçmiş
+28|Hedefler
+29|Kişisel
+30|İşletme
+31|İşletme modu
+32|Kişisel mod
+33|Bütçe
+34|Borçlar
+35|Hesaplar ve cüzdanlar
+36|Takvim
+37|Ayarlar
+38|Yeni yevmiye kaydı
+39|İşlem ekle
+40|Kaydet
+41|Yemek
+42|Ulaşım
+43|Faturalar
+44|Alışveriş
+45|Eğlence
+46|Maaş
+47|Ek gelir
+48|Hediyeler
+49|Diğer
+50|0'dan büyük bir tutar girin
+51|Bir kategori seçin
+52|Gider
+53|Gelir
+54|Tutar
+55|Kategori
+56|Tarih: {d}
+57|Not (isteğe bağlı)
+58|Hedef adını girin
+59|Yeni birikim hedefi
+60|Hedef adı
+61|Hedef tutar
+62|Son tarih (isteğe bağlı, örn. Ara 2026)
+63|{name} hesabına yatır
+64|Yatırılacak tutar
+65|Borç ve alacak hesabını seçin
+66|Borç ve alacak hesapları farklı olmalı
+67|İşlem
+68|Açıklama
+69|Borç hesabı
+70|Alacak hesabı
+71|Merhaba!
+72|Merhaba, {n}
+73|Net bakiye
+74|Bu ay
+75|Bu ayki gelirin %{pct} kadarı harcandı
+76|Birikim hedefleri
+77|Henüz birikim hedefi yok
+78|Son işlemler
+79|Tümü
+80|İşlemi silmek için sola kaydırın
+81|"{label}" silindi
+82|Geri al
+83|Henüz işlem yok
+84|İlk işleminizi eklemek için + simgesine dokunun
+85|Son tarih yok
+86|Son tarih {d}
+87|{a} / {b}
+88|Yatır
+89|Yeni hedef
+90|Oluşturmak için Yeni hedef'e dokunun
+91|İptal edilen hedefi silmek için sola kaydırın
+92|Aylık rapor
+93|Toplam gelir
+94|Toplam gider
+95|Tüm gelirler
+96|Tüm giderler
+97|Bu ay için veri yok
+98|+ ile işlem ekleyin veya başka bir ay seçin
+99|Mor
+100|Mavi
+101|Yeşil
+102|Pembe
+103|Turuncu
+104|Temel ayarlar
+105|Dil
+106|Para birimi
+107|simge önde
+108|simge arkada
+109|Tarih
+110|Biçim {f} • dönem ayın {d}. günü başlar
+111|Güvenlik
+112|PIN kilidi kapalı
+113|PIN kilidi açık
+114|Görünüm
+115|Tema modu
+116|Açık
+117|Koyu
+118|Sistem
+119|Tema rengi
+120|Profil
+121|Adınız
+122|Şirket adı
+123|Ana ekran
+124|Harcama göstergesi
+125|Bu ayki gelirin harcanan yüzdesini göster
+126|Hakkında
+127|Sürüm 1.0.0
+128|Nakit
+129|Banka
+130|E-cüzdan
+131|Tüm hesapların toplamı
+132|Hesap listesi
+133|Yeni hesap
+134|Henüz hesap yok
+135|Eklemek için Yeni hesap'a dokunun
+136|Hesabı silmek için sola kaydırın
+137|Hesap adını girin
+138|Bu hesap adı zaten var
+139|Hesap adı
+140|Tür
+141|Açılış bakiyesi (isteğe bağlı)
+142|Harcanan {v}
+143|Limit {v}
+144|Kalan {v}
+145|Aşım {v}
+146|Aylık bütçe
+147|Yeni bütçe
+148|Henüz bütçe yok
+149|Kategori başına harcama limiti belirleyin
+150|Bütçeyi silmek için sola kaydırın
+151|Bu kategori için zaten bir bütçe var
+152|0'dan büyük bir limit girin
+153|Dönem başına limit
+154|Ödendi
+155|Vade yok
+156|Vade {d}
+157|Ödenmedi yap
+158|Ödendi işaretle
+159|Borcum var
+160|Alacağım var
+161|Ödemeniz gereken toplam
+162|Size ödenecek toplam
+163|Liste
+164|Yeni ekle
+165|Henüz kayıt yok
+166|Eklemek için Yeni ekle'ye dokunun
+167|Kaydı silmek için sola kaydırın
+168|Bir ad girin
+169|Borç kaydet
+170|Borçlu olduğum kişi
+171|Borçlu kişi
+172|Vade tarihi (isteğe bağlı)
+173|Vade: {d}
+174|Giren {a} • Çıkan {b}
+175|İşlem yok
+176|Başka bir tarih seçin veya + ile ekleyin
+177|Örnek: {v}
+178|Simge konumu
+179|Önde
+180|Arkada
+181|Binlik ayırıcı
+182|Nokta
+183|Virgül
+184|Boşluk
+185|Tarih biçimi
+186|Aylık dönem başlangıcı
+187|Dönem başlangıç günü
+188|Ayın {d}. günü
+189|Geçerli dönem: {p}
+190|Uygulamayı PIN ile kilitle
+191|Uygulama arka plandan açıldığında PIN ister
+192|PIN'i değiştir
+193|PIN bu cihazda şifrelenmiş olarak saklanır. PIN'inizi unutmayın: unutursanız tekrar girmenin tek yolu uygulamayı yeniden yüklemektir (verileriniz silinir).
+194|PIN belirle
+195|4 haneli PIN
+196|İptal
+197|PIN 4 haneli olmalı
+198|Çok fazla deneme yapıldı. Lütfen birazdan tekrar deneyin.
+199|Yanlış PIN
+200|Money Buddy kilitli
+201|4 haneli PIN'inizi girin
+202|Popüler
+203|Tüm para birimleri ({n})
+204|Para birimi seçin
+205|Ülke, para birimi veya kod ara
+206|Bulunamadı
+207|Başka bir anahtar kelime deneyin
+208|Net kâr (kümülatif)
+209|Finansal durum
+210|Muhasebe denklemi dengede
+211|Bilanço dengede değil
+212|Varlıklar = Yükümlülükler + Özkaynaklar
+213|Son yevmiye kayıtları
+214|Borç
+215|Alacak
+216|Henüz yevmiye kaydı yok
+217|İlk yevmiye kaydını girmek için + simgesine dokunun
+218|Yevmiye kaydını silmek için sola kaydırın
+219|Bilanço
+220|Varlık, yükümlülük ve özkaynak durumu
+221|Gelir Tablosu
+222|Gelirler, giderler ve net kâr
+223|Nakit Akış Tablosu
+224|Nakit giriş ve çıkışı: faaliyet, yatırım, finansman
+225|Özkaynak Değişim Tablosu
+226|Sermaye ve geçmiş yıl karları hareketleri
+227|{p} itibarıyla
+228|{n} • {p} itibarıyla
+229|PDF paylaş
+230|PDF oluşturulamadı: {e}
+231|Toplam varlıklar
+232|Toplam yükümlülükler
+233|Cari yıl kârı
+234|Toplam özkaynaklar
+235|Dengeli
+236|Dengesiz
+237|Yükümlülükler + özkaynaklar
+238|Yükümlülükler + özkaynaklar {v}
+239|Toplam gelir
+240|Toplam gider
+241|Net kâr
+242|İşletme faaliyetleri
+243|Faaliyetlerden elde edilen nakit
+244|Faaliyetler için ödenen nakit
+245|Net faaliyet nakdi
+246|Yatırım faaliyetleri
+247|Duran varlık alımı/satışı
+248|Net yatırım nakdi
+249|Finansman faaliyetleri
+250|Krediler, sermaye ve temettüler
+251|Net finansman nakdi
+252|Nakit artışı
+253|Dönem başı nakit
+254|Net nakit artışı
+255|Dönem sonu nakit
+256|Açılış özkaynakları
+257|Toplam açılış bakiyesi
+258|Dönem içindeki değişimler
+259|Dönem net kârı
+260|Toplam değişim
+261|Kapanış özkaynakları
+262|Sistem dilini kullan
+263|Para birimi listesindeki para birimi ve ülke adları hâlâ Endonezce gösterilmektedir.
+264|Ocak
+265|Şubat
+266|Mart
+267|Nisan
+268|Mayıs
+269|Haziran
+270|Temmuz
+271|Ağustos
+272|Eylül
+273|Ekim
+274|Kasım
+275|Aralık
+276|Oca
+277|Şub
+278|Mar
+279|Nis
+280|May
+281|Haz
+282|Tem
+283|Ağu
+284|Eyl
+285|Eki
+286|Kas
+287|Ara
+288|Pzt
+289|Sal
+290|Çar
+291|Per
+292|Cum
+293|Cmt
+294|Paz
+295|{d} {m}
+296|{m} {y}

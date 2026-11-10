@@ -1,0 +1,296 @@
+1|Ativos
+2|Passivos
+3|Patrimônio líquido
+4|Receitas
+5|Despesas
+6|Caixa
+7|Bank BCA
+8|Contas a receber
+9|Estoque
+10|Equipamentos (líquido)
+11|Contas a pagar
+12|Empréstimos bancários
+13|Capital social
+14|Lucros acumulados
+15|Vendas
+16|Outras receitas
+17|Custo das mercadorias vendidas
+18|Despesa com salários
+19|Despesa com aluguel
+20|Despesa com luz e água
+21|Outras despesas
+22|Resumo
+23|Diário
+24|Contas
+25|Relatórios
+26|Início
+27|Histórico
+28|Metas
+29|Pessoal
+30|Empresa
+31|Modo empresa
+32|Modo pessoal
+33|Orçamento
+34|Dívidas
+35|Contas e carteiras
+36|Calendário
+37|Ajustes
+38|Novo lançamento
+39|Registrar transação
+40|Salvar
+41|Alimentação
+42|Transporte
+43|Faturas
+44|Compras
+45|Lazer
+46|Salário
+47|Renda extra
+48|Presentes
+49|Outros
+50|Informe um valor maior que 0
+51|Escolha uma categoria
+52|Despesa
+53|Receita
+54|Valor
+55|Categoria
+56|Data: {d}
+57|Observação (opcional)
+58|Informe o nome da meta
+59|Nova meta de economia
+60|Nome da meta
+61|Valor da meta
+62|Prazo (opcional, ex.: dez 2026)
+63|Depositar em {name}
+64|Valor do depósito
+65|Escolha uma conta de débito e uma de crédito
+66|As contas de débito e crédito devem ser diferentes
+67|Transação
+68|Descrição
+69|Conta de débito
+70|Conta de crédito
+71|Olá!
+72|Olá, {n}
+73|Saldo líquido
+74|Este mês
+75|{pct}% da receita deste mês já foi gasta
+76|Metas de economia
+77|Ainda não há metas de economia
+78|Últimas transações
+79|Todas
+80|Deslize para a esquerda para excluir uma transação
+81|"{label}" excluído
+82|Desfazer
+83|Ainda não há transações
+84|Toque em + para adicionar sua primeira transação
+85|Sem prazo
+86|Prazo {d}
+87|{a} de {b}
+88|Depositar
+89|Nova meta
+90|Toque em Nova meta para criar uma
+91|Deslize para a esquerda para excluir uma meta cancelada
+92|Relatório mensal
+93|Total de receitas
+94|Total de despesas
+95|Todas as receitas
+96|Todas as despesas
+97|Sem dados neste mês
+98|Adicione uma transação com + ou escolha outro mês
+99|Roxo
+100|Azul
+101|Verde
+102|Rosa
+103|Laranja
+104|Ajustes básicos
+105|Idioma
+106|Moeda
+107|símbolo antes
+108|símbolo depois
+109|Data
+110|Formato {f} • o período começa no dia {d}
+111|Segurança
+112|Bloqueio por PIN desativado
+113|Bloqueio por PIN ativado
+114|Aparência
+115|Modo do tema
+116|Claro
+117|Escuro
+118|Sistema
+119|Cor do tema
+120|Perfil
+121|Seu nome
+122|Nome da empresa
+123|Tela inicial
+124|Indicador de gastos
+125|Mostra a porcentagem da receita deste mês que já foi gasta
+126|Sobre
+127|Versão 1.0.0
+128|Dinheiro
+129|Banco
+130|Carteira digital
+131|Total de todas as contas
+132|Lista de contas
+133|Nova conta
+134|Ainda não há contas
+135|Toque em Nova conta para adicionar uma
+136|Deslize para a esquerda para excluir uma conta
+137|Informe o nome da conta
+138|Esse nome de conta já existe
+139|Nome da conta
+140|Tipo
+141|Saldo inicial (opcional)
+142|Gasto {v}
+143|Limite {v}
+144|Resta {v}
+145|Excedeu em {v}
+146|Orçamento mensal
+147|Novo orçamento
+148|Ainda não há orçamentos
+149|Defina limites de gastos por categoria
+150|Deslize para a esquerda para excluir um orçamento
+151|Já existe um orçamento para esta categoria
+152|Informe um limite maior que 0
+153|Limite por período
+154|Pago
+155|Sem vencimento
+156|Vence {d}
+157|Marcar não pago
+158|Marcar pago
+159|Eu devo
+160|Devem a mim
+161|Total que você precisa pagar
+162|Total que devem a você
+163|Lista
+164|Adicionar
+165|Ainda não há registros
+166|Toque em Adicionar para incluir um
+167|Deslize para a esquerda para excluir um registro
+168|Informe um nome
+169|Registrar dívida
+170|Devo a
+171|Devedor
+172|Vencimento (opcional)
+173|Vence: {d}
+174|Entrada {a} • Saída {b}
+175|Sem transações
+176|Escolha outra data ou adicione uma com +
+177|Exemplo: {v}
+178|Posição do símbolo
+179|Antes
+180|Depois
+181|Separador de milhares
+182|Ponto
+183|Vírgula
+184|Espaço
+185|Formato de data
+186|Início do período mensal
+187|O período começa no dia
+188|Dia {d}
+189|Período atual: {p}
+190|Bloquear o app com PIN
+191|O app pede o PIN ao ser reaberto em segundo plano
+192|Alterar PIN
+193|O PIN é armazenado criptografado neste dispositivo. Não o esqueça: se esquecer, a única forma de voltar a entrar é reinstalar o app (seus dados serão apagados).
+194|Definir PIN
+195|PIN de 4 dígitos
+196|Cancelar
+197|O PIN deve ter 4 dígitos
+198|Muitas tentativas. Tente novamente em instantes.
+199|PIN incorreto
+200|O Money Buddy está bloqueado
+201|Digite seu PIN de 4 dígitos
+202|Populares
+203|Todas as moedas ({n})
+204|Escolha a moeda
+205|Busque país, moeda ou código
+206|Não encontrado
+207|Tente outra palavra-chave
+208|Lucro líquido (acumulado)
+209|Posição financeira
+210|A equação contábil está equilibrada
+211|O balanço patrimonial não está equilibrado
+212|Ativos = Passivos + Patrimônio líquido
+213|Lançamentos recentes
+214|Débito
+215|Crédito
+216|Ainda não há lançamentos
+217|Toque em + para registrar seu primeiro lançamento
+218|Deslize para a esquerda para excluir um lançamento
+219|Balanço patrimonial
+220|Posição de ativos, passivos e patrimônio líquido
+221|Demonstração do Resultado
+222|Receitas, despesas e lucro líquido
+223|Demonstração do Fluxo de Caixa
+224|Entradas e saídas de caixa: operacional, investimento, financiamento
+225|Demonstração das Mutações do Patrimônio Líquido
+226|Movimento do capital e dos lucros acumulados
+227|Em {p}
+228|{n} • em {p}
+229|Compartilhar PDF
+230|Não foi possível criar o PDF: {e}
+231|Total do ativo
+232|Total do passivo
+233|Lucro do exercício
+234|Total do patrimônio líquido
+235|Equilibrado
+236|Não equilibrado
+237|Passivo + patrimônio líquido
+238|Passivo + patrimônio líquido {v}
+239|Total de receitas
+240|Total de despesas
+241|Lucro líquido
+242|Atividades operacionais
+243|Caixa recebido das operações
+244|Caixa pago nas operações
+245|Caixa líquido operacional
+246|Atividades de investimento
+247|Compra/venda de ativos fixos
+248|Caixa líquido de investimento
+249|Atividades de financiamento
+250|Empréstimos, capital e dividendos
+251|Caixa líquido de financiamento
+252|Aumento de caixa
+253|Caixa no início do período
+254|Aumento líquido de caixa
+255|Caixa no fim do período
+256|Patrimônio líquido inicial
+257|Total do saldo inicial
+258|Mudanças durante o período
+259|Lucro líquido do período
+260|Total das mudanças
+261|Patrimônio líquido final
+262|Seguir o idioma do sistema
+263|Os nomes de moedas e países na lista de moedas ainda aparecem em indonésio.
+264|janeiro
+265|fevereiro
+266|março
+267|abril
+268|maio
+269|junho
+270|julho
+271|agosto
+272|setembro
+273|outubro
+274|novembro
+275|dezembro
+276|jan
+277|fev
+278|mar
+279|abr
+280|mai
+281|jun
+282|jul
+283|ago
+284|set
+285|out
+286|nov
+287|dez
+288|Seg
+289|Ter
+290|Qua
+291|Qui
+292|Sex
+293|Sáb
+294|Dom
+295|{d} de {m}
+296|{m} de {y}

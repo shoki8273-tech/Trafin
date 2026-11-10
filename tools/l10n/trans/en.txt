@@ -1,0 +1,296 @@
+1|Assets
+2|Liabilities
+3|Equity
+4|Revenue
+5|Expenses
+6|Cash
+7|Bank BCA
+8|Accounts Receivable
+9|Inventory
+10|Equipment (net)
+11|Accounts Payable
+12|Bank Loans
+13|Share Capital
+14|Retained Earnings
+15|Sales
+16|Other Income
+17|Cost of Goods Sold
+18|Salary Expense
+19|Rent Expense
+20|Utilities Expense
+21|Other Expenses
+22|Summary
+23|Journal
+24|Accounts
+25|Reports
+26|Home
+27|History
+28|Goals
+29|Personal
+30|Business
+31|Business mode
+32|Personal mode
+33|Budget
+34|Debts
+35|Accounts & wallets
+36|Calendar
+37|Settings
+38|New journal entry
+39|Add transaction
+40|Save
+41|Food
+42|Transport
+43|Bills
+44|Shopping
+45|Entertainment
+46|Salary
+47|Side income
+48|Gifts
+49|Other
+50|Enter an amount greater than 0
+51|Choose a category
+52|Expense
+53|Income
+54|Amount
+55|Category
+56|Date: {d}
+57|Note (optional)
+58|Enter a goal name
+59|New savings goal
+60|Goal name
+61|Target amount
+62|Deadline (optional, e.g. Dec 2026)
+63|Deposit to {name}
+64|Deposit amount
+65|Choose a debit and a credit account
+66|Debit and credit accounts must be different
+67|Transaction
+68|Description
+69|Debit account
+70|Credit account
+71|Hello!
+72|Hello, {n}
+73|Net balance
+74|This month
+75|{pct}% of this month's income has been spent
+76|Savings goals
+77|No savings goals yet
+78|Recent transactions
+79|All
+80|Swipe left to delete a transaction
+81|"{label}" deleted
+82|Undo
+83|No transactions yet
+84|Tap + to add your first transaction
+85|No deadline
+86|Due {d}
+87|{a} of {b}
+88|Deposit
+89|New goal
+90|Tap New goal to create one
+91|Swipe left to delete a cancelled goal
+92|Monthly report
+93|Total income
+94|Total expenses
+95|All income
+96|All expenses
+97|No data this month
+98|Add a transaction with + or pick another month
+99|Purple
+100|Blue
+101|Green
+102|Pink
+103|Orange
+104|Basic settings
+105|Language
+106|Currency
+107|symbol before
+108|symbol after
+109|Date
+110|Format {f} • period starts on day {d}
+111|Security
+112|PIN lock off
+113|PIN lock on
+114|Appearance
+115|Theme mode
+116|Light
+117|Dark
+118|System
+119|Theme color
+120|Profile
+121|Your name
+122|Company name
+123|Home screen
+124|Spending indicator
+125|Show the percentage of this month's income already spent
+126|About
+127|Version 1.0.0
+128|Cash
+129|Bank
+130|E-wallet
+131|Total of all accounts
+132|Account list
+133|New account
+134|No accounts yet
+135|Tap New account to add one
+136|Swipe left to delete an account
+137|Enter an account name
+138|That account name already exists
+139|Account name
+140|Type
+141|Opening balance (optional)
+142|Spent {v}
+143|Limit {v}
+144|Left {v}
+145|Over by {v}
+146|Monthly budget
+147|New budget
+148|No budgets yet
+149|Set spending limits per category
+150|Swipe left to delete a budget
+151|A budget for this category already exists
+152|Enter a limit greater than 0
+153|Limit per period
+154|Paid
+155|No due date
+156|Due {d}
+157|Mark unpaid
+158|Mark paid
+159|I owe
+160|Owed to me
+161|Total you need to pay
+162|Total owed to you
+163|List
+164|Add new
+165|No records yet
+166|Tap Add new to add one
+167|Swipe left to delete a record
+168|Enter a name
+169|Record debt
+170|Owed to
+171|Owed by
+172|Due date (optional)
+173|Due: {d}
+174|In {a} • Out {b}
+175|No transactions
+176|Pick another date or add one with +
+177|Example: {v}
+178|Symbol position
+179|Before
+180|After
+181|Thousands separator
+182|Dot
+183|Comma
+184|Space
+185|Date format
+186|Monthly period start
+187|Period starts on day
+188|Day {d}
+189|Current period: {p}
+190|Lock app with PIN
+191|The app asks for the PIN when reopened from the background
+192|Change PIN
+193|The PIN is stored encrypted on this device. Don't forget it: if you do, the only way back in is to reinstall the app (your data will be erased).
+194|Set PIN
+195|4-digit PIN
+196|Cancel
+197|PIN must be 4 digits
+198|Too many attempts. Try again shortly.
+199|Wrong PIN
+200|Money Buddy is locked
+201|Enter your 4-digit PIN
+202|Popular
+203|All currencies ({n})
+204|Choose currency
+205|Search country, currency or code
+206|Not found
+207|Try another keyword
+208|Net profit (cumulative)
+209|Financial position
+210|Accounting equation is balanced
+211|Balance sheet is not balanced
+212|Assets = Liabilities + Equity
+213|Latest journal entries
+214|Debit
+215|Credit
+216|No journal entries yet
+217|Tap + to record your first journal entry
+218|Swipe left to delete a journal entry
+219|Balance Sheet
+220|Position of assets, liabilities and equity
+221|Income Statement
+222|Revenue, expenses and net profit
+223|Cash Flow Statement
+224|Cash in and out: operating, investing, financing
+225|Statement of Changes in Equity
+226|Movement of capital and retained earnings
+227|As of {p}
+228|{n} • as of {p}
+229|Share PDF
+230|Could not create PDF: {e}
+231|Total assets
+232|Total liabilities
+233|Current year profit
+234|Total equity
+235|Balanced
+236|Not balanced
+237|Liabilities + equity
+238|Liabilities + equity {v}
+239|Total revenue
+240|Total expenses
+241|Net profit
+242|Operating activities
+243|Cash received from operations
+244|Cash paid for operations
+245|Net operating cash
+246|Investing activities
+247|Purchase/sale of fixed assets
+248|Net investing cash
+249|Financing activities
+250|Loans, capital and dividends
+251|Net financing cash
+252|Increase in cash
+253|Cash at start of period
+254|Net increase in cash
+255|Cash at end of period
+256|Opening equity
+257|Total opening balance
+258|Changes during the period
+259|Net profit for the period
+260|Total changes
+261|Closing equity
+262|Follow system language
+263|Currency and country names in the currency list are still shown in Indonesian.
+264|January
+265|February
+266|March
+267|April
+268|May
+269|June
+270|July
+271|August
+272|September
+273|October
+274|November
+275|December
+276|Jan
+277|Feb
+278|Mar
+279|Apr
+280|May
+281|Jun
+282|Jul
+283|Aug
+284|Sep
+285|Oct
+286|Nov
+287|Dec
+288|Mon
+289|Tue
+290|Wed
+291|Thu
+292|Fri
+293|Sat
+294|Sun
+295|{d} {m}
+296|{m} {y}

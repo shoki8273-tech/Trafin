@@ -1,0 +1,296 @@
+1|Aktiva
+2|Verbindlichkeiten
+3|Eigenkapital
+4|Erträge
+5|Aufwendungen
+6|Kasse
+7|Bank BCA
+8|Forderungen
+9|Vorräte
+10|Sachanlagen (netto)
+11|Lieferantenschulden
+12|Bankdarlehen
+13|Grundkapital
+14|Gewinnrücklagen
+15|Umsatzerlöse
+16|Sonstige Erträge
+17|Wareneinsatz
+18|Gehaltsaufwand
+19|Mietaufwand
+20|Strom & Wasser
+21|Sonstige Aufwendungen
+22|Übersicht
+23|Journal
+24|Konten
+25|Berichte
+26|Start
+27|Verlauf
+28|Ziele
+29|Privat
+30|Geschäft
+31|Geschäftsmodus
+32|Privatmodus
+33|Budget
+34|Schulden
+35|Konten & Wallets
+36|Kalender
+37|Einstellungen
+38|Neue Buchung
+39|Transaktion erfassen
+40|Speichern
+41|Essen
+42|Verkehr
+43|Rechnungen
+44|Einkäufe
+45|Freizeit
+46|Gehalt
+47|Nebenverdienst
+48|Geschenke
+49|Sonstiges
+50|Gib einen Betrag größer als 0 ein
+51|Kategorie wählen
+52|Ausgabe
+53|Einnahme
+54|Betrag
+55|Kategorie
+56|Datum: {d}
+57|Notiz (optional)
+58|Gib einen Zielnamen ein
+59|Neues Sparziel
+60|Zielname
+61|Zielbetrag
+62|Frist (optional, z. B. Dez 2026)
+63|Einzahlen auf {name}
+64|Einzahlungsbetrag
+65|Wähle ein Soll- und ein Haben-Konto
+66|Soll- und Haben-Konto müssen verschieden sein
+67|Transaktion
+68|Beschreibung
+69|Soll-Konto
+70|Haben-Konto
+71|Hallo!
+72|Hallo, {n}
+73|Nettosaldo
+74|Diesen Monat
+75|{pct}% der Einnahmen dieses Monats sind ausgegeben
+76|Sparziele
+77|Noch keine Sparziele
+78|Letzte Transaktionen
+79|Alle
+80|Nach links wischen, um eine Transaktion zu löschen
+81|"{label}" gelöscht
+82|Rückgängig
+83|Noch keine Transaktionen
+84|Tippe auf +, um die erste Transaktion hinzuzufügen
+85|Keine Frist
+86|Frist {d}
+87|{a} von {b}
+88|Einzahlen
+89|Neues Ziel
+90|Tippe auf Neues Ziel, um eines anzulegen
+91|Nach links wischen, um ein abgebrochenes Ziel zu löschen
+92|Monatsbericht
+93|Gesamteinnahmen
+94|Gesamtausgaben
+95|Alle Einnahmen
+96|Alle Ausgaben
+97|Keine Daten für diesen Monat
+98|Erfasse eine Transaktion mit + oder wähle einen anderen Monat
+99|Lila
+100|Blau
+101|Grün
+102|Pink
+103|Orange
+104|Grundeinstellungen
+105|Sprache
+106|Währung
+107|Symbol davor
+108|Symbol danach
+109|Datum
+110|Format {f} • Periode beginnt am {d}.
+111|Sicherheit
+112|PIN-Sperre aus
+113|PIN-Sperre an
+114|Darstellung
+115|Designmodus
+116|Hell
+117|Dunkel
+118|System
+119|Designfarbe
+120|Profil
+121|Dein Name
+122|Firmenname
+123|Startseite
+124|Ausgabenanzeige
+125|Zeigt den Anteil der Einnahmen dieses Monats, der bereits ausgegeben wurde
+126|Über
+127|Version 1.0.0
+128|Bargeld
+129|Bank
+130|E-Wallet
+131|Summe aller Konten
+132|Kontenliste
+133|Neues Konto
+134|Noch keine Konten
+135|Tippe auf Neues Konto, um eines hinzuzufügen
+136|Nach links wischen, um ein Konto zu löschen
+137|Gib einen Kontonamen ein
+138|Dieser Kontoname existiert bereits
+139|Kontoname
+140|Art
+141|Anfangssaldo (optional)
+142|Ausgegeben {v}
+143|Limit {v}
+144|Übrig {v}
+145|Überschritten um {v}
+146|Monatsbudget
+147|Neues Budget
+148|Noch keine Budgets
+149|Lege Ausgabenlimits pro Kategorie fest
+150|Nach links wischen, um ein Budget zu löschen
+151|Für diese Kategorie gibt es bereits ein Budget
+152|Gib ein Limit größer als 0 ein
+153|Limit pro Periode
+154|Bezahlt
+155|Ohne Fälligkeit
+156|Fällig {d}
+157|Als offen markieren
+158|Als bezahlt markieren
+159|Ich schulde
+160|Mir geschuldet
+161|Gesamtbetrag, den du zahlen musst
+162|Gesamtbetrag, der dir geschuldet wird
+163|Liste
+164|Neu erfassen
+165|Noch keine Einträge
+166|Tippe auf Neu erfassen, um einen hinzuzufügen
+167|Nach links wischen, um einen Eintrag zu löschen
+168|Gib einen Namen ein
+169|Schuld erfassen
+170|Schuldet an
+171|Schuldner
+172|Fälligkeit (optional)
+173|Fällig: {d}
+174|Eingang {a} • Ausgang {b}
+175|Keine Transaktionen
+176|Wähle ein anderes Datum oder erfasse eine mit +
+177|Beispiel: {v}
+178|Symbolposition
+179|Davor
+180|Danach
+181|Tausendertrennzeichen
+182|Punkt
+183|Komma
+184|Leerzeichen
+185|Datumsformat
+186|Beginn der Monatsperiode
+187|Periode beginnt am
+188|Tag {d}
+189|Aktuelle Periode: {p}
+190|App mit PIN sperren
+191|Die App fragt nach der PIN, wenn sie aus dem Hintergrund wieder geöffnet wird
+192|PIN ändern
+193|Die PIN wird verschlüsselt auf dem Gerät gespeichert. Vergiss sie nicht: Wenn doch, hilft nur eine Neuinstallation der App (deine Daten werden gelöscht).
+194|PIN festlegen
+195|4-stellige PIN
+196|Abbrechen
+197|Die PIN muss 4 Stellen haben
+198|Zu viele Versuche. Bitte versuche es gleich noch einmal.
+199|Falsche PIN
+200|Money Buddy ist gesperrt
+201|Gib deine 4-stellige PIN ein
+202|Beliebt
+203|Alle Währungen ({n})
+204|Währung wählen
+205|Land, Währung oder Code suchen
+206|Nicht gefunden
+207|Versuche ein anderes Stichwort
+208|Nettogewinn (kumuliert)
+209|Finanzlage
+210|Die Buchhaltungsgleichung ist ausgeglichen
+211|Die Bilanz ist nicht ausgeglichen
+212|Aktiva = Verbindlichkeiten + Eigenkapital
+213|Neueste Buchungen
+214|Soll
+215|Haben
+216|Noch keine Buchungen
+217|Tippe auf +, um die erste Buchung zu erfassen
+218|Nach links wischen, um eine Buchung zu löschen
+219|Bilanz
+220|Stand von Aktiva, Verbindlichkeiten und Eigenkapital
+221|Gewinn- und Verlustrechnung
+222|Erträge, Aufwendungen und Nettogewinn
+223|Kapitalflussrechnung
+224|Ein- und Auszahlungen: operativ, Investition, Finanzierung
+225|Eigenkapitalveränderungsrechnung
+226|Entwicklung von Kapital und Gewinnrücklagen
+227|Stand: {p}
+228|{n} • Stand: {p}
+229|PDF teilen
+230|PDF konnte nicht erstellt werden: {e}
+231|Summe Aktiva
+232|Summe Verbindlichkeiten
+233|Jahresüberschuss
+234|Summe Eigenkapital
+235|Ausgeglichen
+236|Nicht ausgeglichen
+237|Verbindlichkeiten + Eigenkapital
+238|Verbindlichkeiten + Eigenkapital {v}
+239|Summe Erträge
+240|Summe Aufwendungen
+241|Nettogewinn
+242|Operative Tätigkeit
+243|Einzahlungen aus operativer Tätigkeit
+244|Auszahlungen für operative Tätigkeit
+245|Netto-Cashflow operativ
+246|Investitionstätigkeit
+247|Kauf/Verkauf von Anlagevermögen
+248|Netto-Cashflow Investition
+249|Finanzierungstätigkeit
+250|Darlehen, Kapital und Dividenden
+251|Netto-Cashflow Finanzierung
+252|Kassenzuwachs
+253|Kasse zu Periodenbeginn
+254|Nettozuwachs der Kasse
+255|Kasse am Periodenende
+256|Eigenkapital zu Beginn
+257|Summe Anfangssaldo
+258|Veränderungen im Zeitraum
+259|Nettogewinn der Periode
+260|Summe Veränderungen
+261|Eigenkapital zum Ende
+262|Systemsprache verwenden
+263|Währungs- und Ländernamen in der Währungsliste werden noch auf Indonesisch angezeigt.
+264|Januar
+265|Februar
+266|März
+267|April
+268|Mai
+269|Juni
+270|Juli
+271|August
+272|September
+273|Oktober
+274|November
+275|Dezember
+276|Jan
+277|Feb
+278|Mär
+279|Apr
+280|Mai
+281|Jun
+282|Jul
+283|Aug
+284|Sep
+285|Okt
+286|Nov
+287|Dez
+288|Mo
+289|Di
+290|Mi
+291|Do
+292|Fr
+293|Sa
+294|So
+295|{d}. {m}
+296|{m} {y}
